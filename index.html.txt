@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AWS EC2 Static Website</title>
+    <style>
+        body {
+            background-color: #f4f6f9;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .card {
+            margin-top: 100px;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #ff9900;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>🚀 AWS EC2 Deployment Successful</h1>
+        <p>This website is hosted on an Amazon EC2 instance.</p>
+        <p><strong>Created By:</strong> Kiran Gadakari</p>
+        <p><strong>Web Server:</strong> Apache</p>
+        <p><strong>Environment:</strong> Production</p>
+    </div>
+
+</body>
+</html>
